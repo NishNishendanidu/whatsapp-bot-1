@@ -6,7 +6,7 @@
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"]
 "KINGAMDA-X_SESSION": {
 
-            "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours
+            "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours"
 
              "Kingamda-X Session.",
 
@@ -203,5 +203,12 @@
             "description": "Fotoğrafların arkaplanını kaldırır. https://remove.bg",
 
             "required": false
+          
+          
+          "BOT_NAME"
+          
+          "required": "true"
+          
+          "value": "QEEN AMDA-X"
 
         },
